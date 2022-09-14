@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 # Tengri's Colors
 Color scheme to be used by Turkist people or just those who like this kind of color schemes.
@@ -39,4 +39,4 @@ Color scheme to be used by Turkist people or just those who like this kind of co
   
 </td></tr> </table>
 
-</center>
+</div>
